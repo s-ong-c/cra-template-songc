@@ -1,0 +1,31 @@
+{
+  "name": "cra-template-songc",
+  "private": false,
+  "version": "0.0.1",
+  "description": "The full template with redux-toolkit for Create React App.",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cra",
+    "cra-template",
+    "redux-toolkit-template"
+  ],
+  "author": "s-ong-c[somony9292@gmail.com]",
+  "engines": {
+    "node": ">=8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s-ong-c/cra-template-songc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/s-ong-c/cra-template-songc"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "license": "MIT"
+}
