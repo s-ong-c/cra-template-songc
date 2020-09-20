@@ -26,7 +26,7 @@ yarn create react-app my-app --template songc
 
 ## In this template
 
-- [TypeScript 3.8.x version](https://github.com/microsoft/TypeScript)
+- [TypeScript 4.x.x version](https://github.com/microsoft/TypeScript)
 - [redux-toolkit](https://github.com/reduxjs/redux-toolkit)
 - [react-redux 7.2.x](https://github.com/reduxjs/react-redux)
 - [craco](https://github.com/gsoft-inc/craco)
