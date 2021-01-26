@@ -1,7 +1,7 @@
 {
   "name": "cra-template-songc",
   "private": false,
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "The full template with redux-toolkit for Create React App.",
   "main": "template.json",
   "scripts": {
